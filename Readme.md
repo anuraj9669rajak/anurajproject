@@ -1,5 +1,8 @@
 # PublicOpinionPolls Smart Contract
 
+![image](https://github.com/user-attachments/assets/3d9e1589-6660-4def-9788-ccbc84ddc89b)
+ID: 0x60fd22d1b29e2917d2a7ab5636808f2dbd11faa269c3b4c65face62f3d3c5417
+
 ## Vision
 
 The **PublicOpinionPolls** smart contract facilitates the creation of decentralized opinion polls, allowing users to collect feedback on various topics through secure, transparent voting. The contract ensures that each participant can only vote once, preserving the integrity of the poll results.
